@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasvin Kenula</h1>
 
+<h3 align="center">A passionate developer from sriLanka </h3>
 
 🔭 IT Undergraduate at SLIIT   
-🌱 currently learning Spring Boot  & AI / ML
+
+📖 currently learning Spring Boot  & AI / ML
 
 
 # 💻 Tech Stack:
